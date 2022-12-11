@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VolPayHubAlertNotification1>
+	<UniqueReferenceId>11111</UniqueReferenceId>
+	<SourceSystemId>UniqueReferenceId</SourceSystemId>
+	<EventID />
+	<EventDateTime>2022-07-20T17:48:01.645Z</EventDateTime>
+	<Version>1.0.1</Version>
+	<Contents>
+		<messageSubject>messageSubject1</messageSubject>
+		 <PaymentControlDataNo>
+			<officeCode>officeCode1234</officeCode>
+			<branchCode>branchCode1234</branchCode>
+			 <InstructionData>
+				<Source>source</Source>
+				<InstructionType>InstructionType</InstructionType>
+			</InstructionData> 
+		</PaymentControlDataNo>
+	</Contents>
+</VolPayHubAlertNotification1>
+	
+	
